@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "pageSize": 40,
+  "total": 7,
+  "tracks": [
+    {
+      "id": "6889ca1c12dd392a5aeac783eca0ed30dcc283cd5e8e350ad2e17549d7200131",
+      "title": "Дождь в Серринья-ду-Аламбари",
+      "fileName": "1.wav",
+      "format": "wav",
+      "bytes": 242548736,
+      "sha256": "68a96977a5302f1fa0a11c5a9a0b09f0beb90a63b261efc53916bd2b0dbe9103",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/1.wav"
+    },
+    {
+      "id": "7c6c25fef53441b79c101f1c28aa5c3efd93c1df408720eaf3dd0e7bb0bd4646",
+      "title": "Канадский пляж",
+      "fileName": "2.wav",
+      "format": "wav",
+      "bytes": 309168690,
+      "sha256": "d85c91efcc3dde9d6e3aece894ed26edbe1911d92d37de8b09ba097f91022bab",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/2.wav"
+    },
+    {
+      "id": "b8841904891bd12c5a409368877291af630482b0e19e244dc950203ed85ee7d6",
+      "title": "Ночной дождь в Мюнхене",
+      "fileName": "3.mp3",
+      "format": "mp3",
+      "bytes": 103164480,
+      "sha256": "e54f232735da7bcb4ff99c8f61e3fc08700bbe14e10cd35684ffb7f2381bd9d3",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/3.mp3"
+    },
+    {
+      "id": "ad26d4a0be58254cb1875e21d03b33ae55ff4e51cac8fbbe5d37f408a3649330",
+      "title": "Ручей в лесу",
+      "fileName": "4.wav",
+      "format": "wav",
+      "bytes": 469280768,
+      "sha256": "0d8294be170517cdfeeaf22d585c8cc2050aa14ca583d7ccfee0f2cef6290236",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/4.wav"
+    },
+    {
+      "id": "ff1f910ffae11d617f0f0b4ea7dd3bc273a7d80c67310feb460531a031ada32b",
+      "title": "Улица",
+      "fileName": "5.wav",
+      "format": "wav",
+      "bytes": 272371000,
+      "sha256": "fbfb56566f0ac4fed406a586c6034533cd2bfa6be4db06c193b4f017230f4c5e",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/5.wav"
+    },
+    {
+      "id": "92e5e7f34128eebd732aefccffb16bfed6dd3c2edef6ed0d06587a541e2f181c",
+      "title": "Улицы Лондона",
+      "fileName": "6.wav",
+      "format": "wav",
+      "bytes": 411830860,
+      "sha256": "afa73e8e20e1ff7345a1df8b819e2bbb121354f1f1867e3838794d78702b9cc4",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/6.wav"
+    },
+    {
+      "id": "e9a6650f1bbecbda87f7e6cd57b315046b91178c7b0060677e7666060a2bc9fd",
+      "title": "Январская снежная тишина",
+      "fileName": "7.wav",
+      "format": "wav",
+      "bytes": 160543320,
+      "sha256": "28a8e842be8e89998ff79d6d2d8aed5ed48990e74bc17b519d8201ef947b0cf0",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/7.wav"
+    }
+  ]
+}
