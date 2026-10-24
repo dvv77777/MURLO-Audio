@@ -10,7 +10,35 @@
       "format": "wav",
       "bytes": 242548736,
       "sha256": "68a96977a5302f1fa0a11c5a9a0b09f0beb90a63b261efc53916bd2b0dbe9103",
-      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/1.wav"
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/1.wav",
+      "contentVersion": "68a96977a5302f1fa0a11c5a9a0b09f0beb90a63b261efc53916bd2b0dbe9103",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/1.wav",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/670950158",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": false,
+        "prefixError": "Некорректная длина RIFF/WAVE",
+        "codec": null,
+        "sampleRate": null,
+        "channels": null
+      }
     },
     {
       "id": "7c6c25fef53441b79c101f1c28aa5c3efd93c1df408720eaf3dd0e7bb0bd4646",
@@ -19,7 +47,38 @@
       "format": "wav",
       "bytes": 309168690,
       "sha256": "d85c91efcc3dde9d6e3aece894ed26edbe1911d92d37de8b09ba097f91022bab",
-      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/2.wav"
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/2.wav",
+      "contentVersion": "d85c91efcc3dde9d6e3aece894ed26edbe1911d92d37de8b09ba097f91022bab",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/2.wav",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/670950915",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "PCM",
+        "sampleRate": 48000,
+        "channels": 2,
+        "prefixBytes": 2880690,
+        "prefixSeconds": 10.0,
+        "prefixSha256": "cd6656eb025acd0b0eb22abe197a18bfccc150b6b3a48c4aae7a24faf5a31306"
+      }
     },
     {
       "id": "b8841904891bd12c5a409368877291af630482b0e19e244dc950203ed85ee7d6",
@@ -28,7 +87,38 @@
       "format": "mp3",
       "bytes": 103164480,
       "sha256": "e54f232735da7bcb4ff99c8f61e3fc08700bbe14e10cd35684ffb7f2381bd9d3",
-      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/3.mp3"
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/3.mp3",
+      "contentVersion": "e54f232735da7bcb4ff99c8f61e3fc08700bbe14e10cd35684ffb7f2381bd9d3",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/3.mp3",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/670951697",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "MPEG Layer III",
+        "sampleRate": 48000,
+        "channels": 2,
+        "prefixBytes": 402240,
+        "prefixSeconds": 10.008979166666666,
+        "prefixSha256": "1fbb3e7ccbdef1896bcb0eb9d7e6647557521f6abf23df9de1f9e7cfdc20cd35"
+      }
     },
     {
       "id": "ad26d4a0be58254cb1875e21d03b33ae55ff4e51cac8fbbe5d37f408a3649330",
@@ -37,7 +127,38 @@
       "format": "wav",
       "bytes": 469280768,
       "sha256": "0d8294be170517cdfeeaf22d585c8cc2050aa14ca583d7ccfee0f2cef6290236",
-      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/4.wav"
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/4.wav",
+      "contentVersion": "0d8294be170517cdfeeaf22d585c8cc2050aa14ca583d7ccfee0f2cef6290236",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/4.wav",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/670952106",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "IEEE float",
+        "sampleRate": 96000,
+        "channels": 2,
+        "prefixBytes": 7712768,
+        "prefixSeconds": 10.0,
+        "prefixSha256": "eda32329b8511c29bf856c88b5604eca3cf6b6c82826363a8dfa24a9e8038fb9"
+      }
     },
     {
       "id": "ff1f910ffae11d617f0f0b4ea7dd3bc273a7d80c67310feb460531a031ada32b",
@@ -46,7 +167,38 @@
       "format": "wav",
       "bytes": 272371000,
       "sha256": "fbfb56566f0ac4fed406a586c6034533cd2bfa6be4db06c193b4f017230f4c5e",
-      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/5.wav"
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/5.wav",
+      "contentVersion": "fbfb56566f0ac4fed406a586c6034533cd2bfa6be4db06c193b4f017230f4c5e",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/5.wav",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/670953783",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "PCM",
+        "sampleRate": 48000,
+        "channels": 2,
+        "prefixBytes": 2880736,
+        "prefixSeconds": 10.0,
+        "prefixSha256": "3c09fecf22aa51c8908eafaa591190c8d867dd29307b4fbe43278606522da9d9"
+      }
     },
     {
       "id": "92e5e7f34128eebd732aefccffb16bfed6dd3c2edef6ed0d06587a541e2f181c",
@@ -55,7 +207,38 @@
       "format": "wav",
       "bytes": 411830860,
       "sha256": "afa73e8e20e1ff7345a1df8b819e2bbb121354f1f1867e3838794d78702b9cc4",
-      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/6.wav"
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/6.wav",
+      "contentVersion": "afa73e8e20e1ff7345a1df8b819e2bbb121354f1f1867e3838794d78702b9cc4",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/6.wav",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/670954618",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "PCM",
+        "sampleRate": 48000,
+        "channels": 2,
+        "prefixBytes": 2880116,
+        "prefixSeconds": 10.0,
+        "prefixSha256": "26e829f7c6fed9db7bfc2946bdb9da68ba3c77dce5dc2360777ea5890451bd16"
+      }
     },
     {
       "id": "e9a6650f1bbecbda87f7e6cd57b315046b91178c7b0060677e7666060a2bc9fd",
@@ -64,7 +247,38 @@
       "format": "wav",
       "bytes": 160543320,
       "sha256": "28a8e842be8e89998ff79d6d2d8aed5ed48990e74bc17b519d8201ef947b0cf0",
-      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/7.wav"
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/7.wav",
+      "contentVersion": "28a8e842be8e89998ff79d6d2d8aed5ed48990e74bc17b519d8201ef947b0cf0",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/7.wav",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/670955885",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "PCM",
+        "sampleRate": 48000,
+        "channels": 2,
+        "prefixBytes": 1920044,
+        "prefixSeconds": 10.0,
+        "prefixSha256": "400ba13a7e913f7dc34bbeff64ceac5d870abd1235f7c10b6f3a60a5d973225e"
+      }
     }
   ]
 }
