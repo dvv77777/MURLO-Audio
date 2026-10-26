@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "pageSize": 40,
-  "total": 7,
+  "total": 17,
   "tracks": [
     {
       "id": "6889ca1c12dd392a5aeac783eca0ed30dcc283cd5e8e350ad2e17549d7200131",
@@ -76,7 +76,7 @@
         "sampleRate": 48000,
         "channels": 2,
         "prefixBytes": 2880690,
-        "prefixSeconds": 10.0,
+        "prefixSeconds": 10,
         "prefixSha256": "cd6656eb025acd0b0eb22abe197a18bfccc150b6b3a48c4aae7a24faf5a31306"
       }
     },
@@ -156,7 +156,7 @@
         "sampleRate": 96000,
         "channels": 2,
         "prefixBytes": 7712768,
-        "prefixSeconds": 10.0,
+        "prefixSeconds": 10,
         "prefixSha256": "eda32329b8511c29bf856c88b5604eca3cf6b6c82826363a8dfa24a9e8038fb9"
       }
     },
@@ -196,7 +196,7 @@
         "sampleRate": 48000,
         "channels": 2,
         "prefixBytes": 2880736,
-        "prefixSeconds": 10.0,
+        "prefixSeconds": 10,
         "prefixSha256": "3c09fecf22aa51c8908eafaa591190c8d867dd29307b4fbe43278606522da9d9"
       }
     },
@@ -236,7 +236,7 @@
         "sampleRate": 48000,
         "channels": 2,
         "prefixBytes": 2880116,
-        "prefixSeconds": 10.0,
+        "prefixSeconds": 10,
         "prefixSha256": "26e829f7c6fed9db7bfc2946bdb9da68ba3c77dce5dc2360777ea5890451bd16"
       }
     },
@@ -276,8 +276,408 @@
         "sampleRate": 48000,
         "channels": 2,
         "prefixBytes": 1920044,
-        "prefixSeconds": 10.0,
+        "prefixSeconds": 10,
         "prefixSha256": "400ba13a7e913f7dc34bbeff64ceac5d870abd1235f7c10b6f3a60a5d973225e"
+      }
+    },
+    {
+      "id": "github-asset-676570364",
+      "title": "Блуждать по вселенной",
+      "fileName": "8.mp3",
+      "format": "mp3",
+      "bytes": 6314241,
+      "sha256": "2672b0ea8858b3c17d9ee662b59f4edc4681e9973e0cd9b23ed9a68a588c371e",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/8.mp3",
+      "contentVersion": "2672b0ea8858b3c17d9ee662b59f4edc4681e9973e0cd9b23ed9a68a588c371e",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/8.mp3",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/676570364",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "MPEG Layer III",
+        "sampleRate": 44100,
+        "channels": 2,
+        "prefixBytes": 221885,
+        "prefixSeconds": 10.005963718820862,
+        "prefixSha256": "384f68fcb96eb3acfce4b9afd7c0a9fa35e019e276092ce22ce36bc695dde668"
+      }
+    },
+    {
+      "id": "github-asset-676570423",
+      "title": "Волны балтийского берега",
+      "fileName": "9.mp3",
+      "format": "mp3",
+      "bytes": 6823656,
+      "sha256": "2e1b071d6424b4bdaa54d77b8e929ef336a7b08086dd496f35e135e97303c80a",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/9.mp3",
+      "contentVersion": "2e1b071d6424b4bdaa54d77b8e929ef336a7b08086dd496f35e135e97303c80a",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/9.mp3",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/676570423",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "MPEG Layer III",
+        "sampleRate": 48000,
+        "channels": 2,
+        "prefixBytes": 233376,
+        "prefixSeconds": 10.008979166666666,
+        "prefixSha256": "61206d5ea8a3f94453529cc5cc017b45bef83792066bdd20212b55d5cf6504fb"
+      }
+    },
+    {
+      "id": "github-asset-676570443",
+      "title": "Дождь в теплице",
+      "fileName": "10.mp3",
+      "format": "mp3",
+      "bytes": 5440298,
+      "sha256": "b7f52ea3533516327963b1640fe63d3bb28d1cb5adc14ba234237078902bcff9",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/10.mp3",
+      "contentVersion": "b7f52ea3533516327963b1640fe63d3bb28d1cb5adc14ba234237078902bcff9",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/10.mp3",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/676570443",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "MPEG Layer III",
+        "sampleRate": 44100,
+        "channels": 2,
+        "prefixBytes": 240851,
+        "prefixSeconds": 10.005963718820862,
+        "prefixSha256": "8a7c96b0054b50329b85ae8e564ae17cc76b6c4faac0ec9a3f9ea07af99da96a"
+      }
+    },
+    {
+      "id": "github-asset-676570486",
+      "title": "Звуки поролона",
+      "fileName": "11.mp3",
+      "format": "mp3",
+      "bytes": 3313536,
+      "sha256": "7d9669dad6353026b434832eb84c407a3bd2b958b5baaf4de4507d840d277be8",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/11.mp3",
+      "contentVersion": "7d9669dad6353026b434832eb84c407a3bd2b958b5baaf4de4507d840d277be8",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/11.mp3",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/676570486",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "MPEG Layer III",
+        "sampleRate": 48000,
+        "channels": 2,
+        "prefixBytes": 191712,
+        "prefixSeconds": 10.008979166666666,
+        "prefixSha256": "f249434d09e5e1e6e4b88492354cab26c9ffdeccef53f4d6f41dad8a3b0e5672"
+      }
+    },
+    {
+      "id": "github-asset-676570545",
+      "title": "Космический ландшафт",
+      "fileName": "12.mp3",
+      "format": "mp3",
+      "bytes": 6497584,
+      "sha256": "d1f043ac6c2f9ef6899ee03ff3fb48121fe17d2d0539017fa5e3a851ccb931b7",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/12.mp3",
+      "contentVersion": "d1f043ac6c2f9ef6899ee03ff3fb48121fe17d2d0539017fa5e3a851ccb931b7",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/12.mp3",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/676570545",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "MPEG Layer III",
+        "sampleRate": 44100,
+        "channels": 2,
+        "prefixBytes": 220281,
+        "prefixSeconds": 10.005963718820862,
+        "prefixSha256": "49eacc113d16276ee8d0832d6a004bc8db22df6a0403e7fec47a5efbac73789a"
+      }
+    },
+    {
+      "id": "github-asset-676570646",
+      "title": "Лес Слейли, Нортумберленд, Великобритания. Запись произведена в густом массиве ситхинской ели и сосны обыкновенной",
+      "fileName": "13.wav",
+      "format": "wav",
+      "bytes": 683853194,
+      "sha256": "793332982b287aaeac48a81c6a2694a0ebd44a6ab0e4f9ffb190ad4abb485096",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/13.wav",
+      "contentVersion": "793332982b287aaeac48a81c6a2694a0ebd44a6ab0e4f9ffb190ad4abb485096",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/13.wav",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/676570646",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "PCM",
+        "sampleRate": 96000,
+        "channels": 2,
+        "prefixBytes": 5760044,
+        "prefixSeconds": 10,
+        "prefixSha256": "f4562194b1b7593d3392b1a0b3071c41e6667edb626c5b500b8b9a3fa58e67e7"
+      }
+    },
+    {
+      "id": "github-asset-676582550",
+      "title": "Норвежская лесная кошка",
+      "fileName": "14.mp3",
+      "format": "mp3",
+      "bytes": 2450448,
+      "sha256": "e67d6760671709ac10c5806107d458b4c50604c5c10ab57fd535afb269b4e876",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/14.mp3",
+      "contentVersion": "e67d6760671709ac10c5806107d458b4c50604c5c10ab57fd535afb269b4e876",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/14.mp3",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/676582550",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "MPEG Layer III",
+        "sampleRate": 48000,
+        "channels": 1,
+        "prefixBytes": 229248,
+        "prefixSeconds": 10.008979166666666,
+        "prefixSha256": "a2b4c25cd0110f2c57ba1aabbfdf6838a69d190573eb9a33c537b88eca3e964a"
+      }
+    },
+    {
+      "id": "github-asset-676582622",
+      "title": "Поездки на работу в Токионе",
+      "fileName": "15.mp3",
+      "format": "mp3",
+      "bytes": 4198514,
+      "sha256": "a401d09f1c5d3bfdc8797cc223deb0138b20264da25f7a409e6b768fa99a1861",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/15.mp3",
+      "contentVersion": "a401d09f1c5d3bfdc8797cc223deb0138b20264da25f7a409e6b768fa99a1861",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/15.mp3",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/676582622",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "MPEG Layer III",
+        "sampleRate": 44100,
+        "channels": 2,
+        "prefixBytes": 207899,
+        "prefixSeconds": 10.005963718820862,
+        "prefixSha256": "c4adbd6a66312863a061e43dccde5dc2f179497ce7efd1587ee758d180e4737f"
+      }
+    },
+    {
+      "id": "github-asset-676582740",
+      "title": "После берлинского концерта",
+      "fileName": "16.mp3",
+      "format": "mp3",
+      "bytes": 15472416,
+      "sha256": "cfbb01bd892386fde5a702c30161074e72514b4c37a2d38cd79f3c79463e6e4a",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/16.mp3",
+      "contentVersion": "cfbb01bd892386fde5a702c30161074e72514b4c37a2d38cd79f3c79463e6e4a",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/16.mp3",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/676582740",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "MPEG Layer III",
+        "sampleRate": 48000,
+        "channels": 2,
+        "prefixBytes": 265056,
+        "prefixSeconds": 10.008979166666666,
+        "prefixSha256": "a30d3c51107864fe8cc46229d7cf652e45b2763eadcf9a645cb08b9cdfc0c326"
+      }
+    },
+    {
+      "id": "github-asset-676583144",
+      "title": "Старый виниловый треск",
+      "fileName": "17.mp3",
+      "format": "mp3",
+      "bytes": 6737592,
+      "sha256": "79d58340936f8bc1a46049acd2b644c077feae4076e06c5212eaaf8e89650a4c",
+      "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/17.mp3",
+      "contentVersion": "79d58340936f8bc1a46049acd2b644c077feae4076e06c5212eaaf8e89650a4c",
+      "sources": [
+        {
+          "id": "github-release",
+          "kind": "https",
+          "priority": 100,
+          "url": "https://github.com/dvv77777/MURLO-Audio/releases/download/audio-v1/17.mp3",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        },
+        {
+          "id": "github-api",
+          "kind": "githubAsset",
+          "priority": 110,
+          "url": "https://api.github.com/repos/dvv77777/MURLO-Audio/releases/assets/676583144",
+          "redirectHosts": [
+            "release-assets.githubusercontent.com"
+          ]
+        }
+      ],
+      "audio": {
+        "prefixSupported": true,
+        "prefixError": null,
+        "codec": "MPEG Layer III",
+        "sampleRate": 44100,
+        "channels": 2,
+        "prefixBytes": 225795,
+        "prefixSeconds": 10.005963718820862,
+        "prefixSha256": "83c7c1abc0a5d106693f71f49471c081cd8042fa20393d500eff8c60b39d871f"
       }
     }
   ]
